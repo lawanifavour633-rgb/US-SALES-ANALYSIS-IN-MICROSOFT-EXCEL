@@ -1,13 +1,2 @@
-# US-SALES-ANALYSIS-IN-MICROSOFT-EXCEL
-Data source from Kaggle
-Inspected the data set
-Removed blank rows, extra spaces
-Standardized capitalization, gender, date, branch and state names.
-Checked for missing values
-Corrected invalid ages
-Converted numbers stored as texts
-Reviewed phone numbers, email address
-Removed duplicate records.
-Applied data validation.
-Selected pivot columns
-Carried out pivot query.
+**US-SALES-ANALYSIS-IN-MICROSOFT-EXCEL**
+The dataset used for this project is sourced from Kaggle. I began by understanding the business problem and reviewing the dataset to identify the key information required for the analysis. During data cleaning, I checked for and removed duplicate records and blank rows, removed extra spaces and standardized capitalization. I also standardized fields such as gender, dates, branch and state names, checked for missing values, corrected invalid ages and converted numbers stored as text into the appropriate numerical format. Phone numbers and email addresses were also reviewed for consistency and data validation was applied to improve data accuracy. After cleaning, I converted the data into a structured table and selected the relevant columns for analysis. I used PivotTable/Pivot Query techniques to summarize the data and analyze key sales figures, trends and patterns. I then created charts to present the findings visually and organized them into a dashboard. Finally, I added slicers to make the dashboard interactive, allowing users to filter the data and view sales performance across different categories. 
